@@ -1,1 +1,2 @@
-cambiando desde la rama principal
+practicando cambios en pedro.txt y resolviendo conflictos
+
